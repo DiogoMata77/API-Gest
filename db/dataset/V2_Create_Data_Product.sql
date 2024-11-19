@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[Product] ([Id], [Name], [Mine], [MineDes], [ProductLink], [Image], [State], [BuingPrice], [SellingPrice], [Quantity]) VALUES (2050, N'Seiko 5 Bruce Lee', 1, N'Venda', N'https://www.vinted.pt/items/4470399085-seiko-5-bruce-lee-srpk39k1', N'/assets/logo.jpeg', 1, 515, 550, 2)
